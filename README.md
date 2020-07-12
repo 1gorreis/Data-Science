@@ -1,6 +1,7 @@
 # Igor Reis
 
-Curioso pelo assunto Data Science, iniciando os estudos e aprendizados. Atualmente trabalho com planejamento comercial, mais especificamente com números, dados, relatórios, indicadores e etc.
+Curioso pelo assunto Data Science, iniciando os estudos e aprendizados.
+Atualmente trabalho com planejamento comercial, mais especificamente com números, dados, relatórios, indicadores e etc.
 
 
 **Links:**
